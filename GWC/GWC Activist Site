@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- TODO: Update the heading with the name of your website -->
+    <title>Mental Health Awareness</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheets -->
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/take-action.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+
+    <!-- TODO: Add any links to Google font families here -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merienda+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Arvo&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+    <nav>
+      <ul class="nav-bar">
+        <li class="nav"><a href="take-action.html">Take Action</a></li>
+        <li class="nav">
+          <a href="educational-advocacy-resources.html"
+            >Educational and Advocacy Resources</a
+          >
+        </li>
+        <li class="nav"><a href="index.html">Home</a></li>
+      </ul>
+    </nav>
+
+    <!------------------------------->
+    <!---------TOP SECTION----------->
+    <!------------------------------->
+    <!--Top section with title and description-->
+    <div class="main-message">
+      <div class="flex-container">
+        <div class="heading-home">
+          <!-- TODO: Update the heading with the title of your website -->
+          Mental Health Awareness
+        </div>
+
+        <div class="intro-text">
+          <!-- TODO: Update the placeholder introduction text with your own intro text -->
+
+          We all have mental health. We deserve to take care of our mind as much
+          as we do our body.
+        </div>
+      </div>
+    </div>
+
+    <!------------------------------->
+    <!----------SECTION 1------------>
+    <!------------------------------->
+    <!--Text section-->
+    <div class="text-section">
+      <h2>
+        <!-- TODO: Update the heading with your own -->
+        About
+      </h2>
+      <p>
+        <!-- TODO: Update the text with your own -->
+        Much progress has been made in terms of treatment and society's
+        perception of mental health and illness. However, there are still
+        improvements we can continue to strive for. By continuing to spread
+        awareness and encourage support, we can continue to better the mental
+        health community.
+      </p>
+
+      <!-- OPTIONAL TODO: If you need to attribute the image in a section, add it the text section -->
+    </div>
+    <!--Image 1-->
+    <div class="advocacy-img"></div>
+    <!------------------------------->
+    <!----------SECTION 2------------>
+    <!------------------------------->
+    <!-- TODO: Copy and paste the HTML from Section 1 and update the text and image class -->
+    <div class="text-section">
+      <!-- TODO: Update the heading with your own -->
+      <h2>
+        Educational and Advocacy Resources
+      </h2>
+
+      <p>
+        <!-- TODO: Update the text with your own -->
+        Listed on the
+        <a href="educational-resources.html"
+          >Educational and Advocacy Resources</a
+        >
+        page are sites and articles with information relating to mental health,
+        general and specific.
+      </p>
+
+      <!-- OPTIONAL TODO: If you need to attribute the image in a section, add it the text section -->
+      <!--<p class="attributions">
+      </p>-->
+    </div>
+
+    <div class="checklist-img"></div>
+
+    <!------------------------------->
+    <!----------SECTION 3------------>
+    <!------------------------------->
+    <!-- TODO: Copy and paste the HTML from Section 1 and update the text and image class -->
+    <!--Text section-->
+    <div class="text-section">
+      <!-- OPTIONAL TODO: If you need to attribute the image in a section, add it the text section -->
+      <h2>
+        <!-- TODO: Update the heading with your own -->
+        Taking Action
+      </h2>
+      <p>
+        <!-- TODO: Update the text with your own -->
+        You can help make a difference. Click
+        <a href="take-action.html">here</a> to support and give to organizations
+        and the community and leave a mark for the benefit of many.
+      </p>
+    </div>
+
+    <!------------------------------->
+    <!--Copy and paste if you have more than three sections-->
+    <!----------SECTION 4------------>
+    <!------------------------------->
+    <!-- TODO: Copy and paste the HTML from Section 1 and update the text and image class -->
+
+    <!------------------------------->
+    <!---------ABOUT SECTION--------->
+    <!------------------------------->
+    <!--Text section only-->
+  </body>
+</html>

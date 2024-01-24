@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- TODO: Update the heading with the name of your website -->
+    <title>My Cause</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheets -->
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/take-action.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+
+    <!-- TODO: Add any links to Google font families here -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Merienda+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap" rel="stylesheet">
+
+    
+    <!-- CSS elements here-->
+    <style>
+      .action-list-container {
+        color: black;
+        list-style-type: square;
+      }
+    </style>
+  </head>
+
+  <body>
+    <nav>
+      <ul class="nav-bar">
+        <li class="nav"><a href="take-action.html">Take Action</a></li>
+        <li class="nav">
+          <a href="educational-advocacy-resources.html"
+            >Educational Resources</a
+          >
+        </li>
+        <li class="nav"><a href="index.html">Home</a></li>
+      </ul>
+    </nav>
+
+    <div class="page-header-action">
+      <h1>Take Action</h1>
+    </div>
+
+<header><title>
+    Take Action
+      </title></header>
+    <div class="main-message">
+      <div class="flex-container">
+        <div class="heading-home">
+          <!-- TODO: Update the heading with the title of your website -->
+          <h1>
+            Take Action
+          </h1>
+        </div>
+        <div class="intro-text">
+          There are ways that you can help. See below for steps to help better the mental health community.
+        </div>
+      </div>
+    </div>
+    
+    <!------------------------------->
+    <!--------FLEX CONTAINER--------->
+    <!------------------------------->
+    <!-- TODO: Create a flex container with the class "flex-container-action" to hold the description of your action and your check list -->
+    <!-- TODO: Inside the flex containter, add a flex item with the class "action-info-container" to hold your description-->
+    <!-- TODO: Inside the flex containter, add a flex item with class "action-list-container" and the id "checklist" to hold your checklist -->
+    <div class="flex-container-action">
+      <div class="action-info-container">
+        <h2>
+          A Way to Help
+        </h2>
+        <p>
+          Step 1: If you think you could be more informed about mental
+          health/illness in general, you can visit a few websites for info.
+          <br /><br />
+          Step 2: Look at advocacy groups’ websites to see what actions are
+          being/need to be taken.<br /><br />
+          Step 3: Reflect and ask yourself: What is your perspective on mental
+          health/illness and treatment? Has it changed as you learn more about
+          the topic?<br /><br />
+          Step 4: Donate or use other ways to support mental health/illness
+          organizations. Spread positive messages within your community.<br /><br />
+        </p>
+      </div>
+      <br>
+      <div class="action-list-container" id="checklist">
+        <h2 class="checklist-header">
+          Steps
+        </h2>
+        <p class="instructions">
+          Here are steps to complete to support the community! Once you've
+          completed a step, you can check it off in the checklist below.
+        </p>
+        <ul id="my-list">
+          <li class="action-li">
+            Step 1: General knowledge
+          </li>
+          <li class="action-li">
+            Step 2: Advocacy
+          </li>
+          <li class="action-li">
+            Step 3: Reflection
+          </li>
+          <li class="action-li">
+            Step 4: Support
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>

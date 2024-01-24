@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheets -->
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/take-action.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+    
+    <!-- import the links to the fonts here -->
+    <link href="https://fonts.googleapis.com/css2?family=Merienda+One&display=swap" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap" rel="stylesheet">
+
+    
+  <body>
+    <nav>
+    <ul class="nav-bar">
+        <li class="nav"><a href="take-action.html">Take Action</a></li>
+        <li class="nav"><a href="educational-advocacy-resources.html">Educational and Advocacy Resources</a></li>
+        <li class="nav"><a href="index.html">Home</a></li>
+      </ul>
+    </nav>
+    
+    <header><title>
+    Educational Resources
+      </title></header>
+    <div class="main-message">
+      <div class="flex-container">
+        <div class="heading-home">
+          <!-- TODO: Update the heading with the title of your website -->
+          <h1>
+            Educational and Advocative Resources
+          </h1>
+        </div>
+
+        <div class="intro-text">
+          Here are sites and articles with information surrounding the topic of mental health and illness,
+          including both general and more specific (such as facts or statistics) information.
+        </div>
+      </div>
+    </div>
+    <br>
+    
+  
+    <h2>
+      Educational Resources
+    </h2>
+    <ul>
+      <li>
+      <h3>
+      <a href="https://www.apa.org/">American Psychological Association (APA)</a>
+        </h3>
+        <h4>
+          The American Psychological Association provides news, information and research, and advocacy surrounding psychology and mental health.
+        </h4>
+      </li>
+      <li>
+      <h3>
+        <a href="https://www.nami.org/home">National Association on Mental Illness (NAMI)</a>
+        </h3>
+        <h4>
+          NAMI is a grassroots mental health organization dedicated to providing support and resources for those affected by mental illness.
+        </h4>
+      </li>
+      <li>
+      <h3>
+      <a href="https://www.mhanational.org/about">Mental Health America</a>
+        </h3>
+        <h4>
+          Mental Health America is a non-profit dedicated to supporting and promoting mental health and addressing the needs of those affected by mental
+          illness. It mostly provides resources for getting help and ways to help the mental health community.
+        </h4>
+      </li>
+      <li>
+      <h3>
+      <a href="https://www.nimh.nih.gov/index.shtml">National Institute of Mental Health</a>
+        </h3>
+        <h4>
+          NIMH is a federal agency for research on mental disorders. It provides resources, news, information on disorders, and reseasrch highlights. It also
+          provides funding opportunities.
+        </h4>
+      </li>
+      <li>
+      <h3>
+        <a href="https://www.psychologytoday.com/us">Psychology Today</a>
+        </h3>
+        <h4>
+          The Psychology Today site provides articles surrounding various topics in psychology, as well as providing
+          mental health resources. It also publishes its own magazines.
+        </h4>
+      </li>
+    </ul>
+    <br>
+    <br>
+    
+    <div class="advocacy-img">
+    </div>
+    <h2>
+      Advocacy Groups and Resources
+    </h2>
+    <ul>
+      <li>
+        <h3>
+      <a href="https://www.mhanational.org/issues/advocacy-network">Mental Health America’s Advocacy Network</a>
+        </h3>
+        <h4>
+          Mental Health America's Advocacy Network focuses on legislative advocacy, having implemented policies such as the Affordable Care Act. It provides
+          many ways to get involved, including action alerts; various ways to give, such as donating or social media fundraising; and volunteering, among others.
+        </h4>
+      </li>
+      <li>
+        <h3>
+      <a href="https://www.nami.org/Get-Involved/What-Can-I-Do/Become-a-Leader-in-the-Mental-Health-Movement">National Alliance on Mental Illness (NAMI)’s “Get Involved” Page</a>
+        </h3>
+        <h4>
+          NAMI's "Get Involved" provides various specific ways to act, including supporting NAMI, getting involved in one's community, and working with authoriities and companies.
+        </h4>
+      </li>
+      <li>
+        <h3>
+      <a href="https://psychcentral.com/blog/what-it-means-to-be-a-mental-health-advocate-and-how-to-become-one/"> Psych Central’s Article on Being a Mental Health Advocate</a>
+        </h3>
+        <h4>
+          Psych Central's "How to Be an Advocate" article provides a sense of what being an advocate can mean, their role and reason in the community, what advocacy can
+          look like, and, of course, how to be one.
+        </h4>
+      </li>
+      <li>
+        <h3>
+      <a href="https://www.bevocalspeakup.com/how-to-be-vocal-for-your-community.html">Be Vocal’s Website</a>
+        </h3>
+        <h4>
+          <em>Be Vocal</em> is a site focusing on speaking up and raising awareness and support. It includes pages such as tips for speaking up for
+          oneself and one's community, 
+        </h4>
+      </li>
+      <li>
+        <h3>
+      <a href="https://www.apa.org/advocacy/health/">American Psychological Association's Advocacy Page</a>
+        </h3>
+        <h4>
+          The APA's advocacy page emphasizes physical and mental health and focuses legislative actions and policies for easier
+          and equal healthcare. They provide several resources and news updates on legislative and other advocacy related events.
+        </h4>
+      </li>
+    </ul>
+    
+    
+    
+    
+    
+    
+    
+    
+  </body>
+</html>
